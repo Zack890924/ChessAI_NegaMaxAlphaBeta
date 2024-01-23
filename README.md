@@ -1,7 +1,5 @@
 # ChessAI_NegaMaxAlphaBeta
 
-![Chess Game Screenshot](chess_game_screenshot.png)
-
 ChessAI_NegaMaxAlphaBeta is an AI-powered GO game implemented using the NegaMax algorithm and Alpha-Beta Pruning.
 
 ## How to Play
@@ -14,7 +12,7 @@ ChessAI_NegaMaxAlphaBeta is an AI-powered GO game implemented using the NegaMax 
 
 2. **Game Interface:** After the game starts, you'll see the GO game interface, including the board, pieces, and a simple user interface.
 
-![Chess Game Screenshot](chess_game_screenshot.png)
+!(chess_game_screenshot.png)
 
 3. **Gameplay:** Make your moves and play against the AI opponent. The game screen will display the current game state, player, and AI scores, among other relevant information.
 
@@ -26,6 +24,4 @@ ChessAI_NegaMaxAlphaBeta is an AI-powered GO game implemented using the NegaMax 
 
 - Ensure that your terminal supports ANSI colors for the optimal gaming experience.
 
-## Screenshots
 
-![Chess Game Screenshot](path/to/chess_game_screenshot.png)
