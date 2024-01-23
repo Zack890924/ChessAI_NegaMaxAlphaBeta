@@ -12,7 +12,7 @@ ChessAI_NegaMaxAlphaBeta is an AI-powered GO game implemented using the NegaMax 
 
 2. **Game Interface:** After the game starts, you'll see the GO game interface, including the board, pieces, and a simple user interface.
 
-!(chess_game_screenshot.png)
+![Chess Game Screenshot](chess_game_screenshot.jpg)
 
 3. **Gameplay:** Make your moves and play against the AI opponent. The game screen will display the current game state, player, and AI scores, among other relevant information.
 
